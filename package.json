@@ -1,0 +1,25 @@
+{
+  "name": "mydemo2",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "react": "^15.5.4",
+    "react-bootstrap": "^0.31.0",
+    "react-bootstrap-dropdown": "^0.3.0",
+    "react-bootstrap-table": "^3.4.1",
+    "react-data-grid": "^2.0.48",
+    "react-data-grid-addons": "^2.0.48",
+    "react-datagrid": "^2.1.2",
+    "react-dom": "^15.5.4",
+    "react-responsive-accordion": "^1.0.0"
+  },
+  "devDependencies": {
+    "react-scripts": "1.0.7"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
